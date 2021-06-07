@@ -35,7 +35,7 @@ I don't want to go to deep into any numbers, however for clarity I want to give 
 
 User A sends User B "1000" MOONI
 
-![Small tx](/assets/images/token_pages/moonity/1_moonity_tx_example.png)
+![Small tx](/assets/images/_token_pages/moonity/1_moonity_tx_example.png)
 
 As can be seen in the above diagram, the proportion of tokens 'lost' due to the tax brackets is relatively small.
 
@@ -43,7 +43,7 @@ As can be seen in the above diagram, the proportion of tokens 'lost' due to the 
 
 User A sends User B "1,000,000" MOONI
 
-![Large tx](/assets/images/token_pages/moonity/2_moonity_tx_example.png)
+![Large tx](/assets/images/_token_pages/moonity/2_moonity_tx_example.png)
 
 Compared to the small transaction, the about of tokens 'lost' by the receiver is much larger and could be worth a lot of fiat depending on the market. To me, personally, I like the mechanics behind the token so although this would be a personal hit to User B as the receiver of the tokens, they can find peace knowing that they have also given a large proportion to charity and their fellow token holders!
 
