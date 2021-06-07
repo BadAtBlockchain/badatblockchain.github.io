@@ -51,8 +51,8 @@ Compared to the small transaction, the about of tokens 'lost' by the receiver is
 
 The first donation made by the Moonity community totaled 53,683 ONE which at the time was worth roughly 2 ETH. The community voted on the target charity which would receive the raised money, resulting in 2 separate leading charities:
 
-- Orangutan Outreach: https://redapes.org/
-- International Medical Corps: https://internationalmedicalcorps.org/
+- Orangutan Outreach: [https://redapes.org/](https://redapes.org/)
+- International Medical Corps: [https://internationalmedicalcorps.org/](https://internationalmedicalcorps.org/)
 
 1 ETH (26,841 ONE) were donated to both of the above charities directly. This incredible amount of money was raised in just 9 days of the tokens launch, raising excitement across the board and proving that the token's direction was helping those outside of the community as well as all of those involved with MOONI! To read a more in depth article regarding this, please see this reddit [post](https://www.reddit.com/r/harmony_markets/comments/nojhtz/first_moonity_community_donation_of_50_000_one_2/).
 
@@ -64,24 +64,24 @@ The first donation made by the Moonity community totaled 53,683 ONE which at the
 
 Official website for the token:
 
-https://moonity.one/en
+[https://moonity.one/en](https://moonity.one/en)
 
 Chart and current market information:
 
-https://info.moonity.one/
+[https://info.moonity.one/](https://info.moonity.one/)
 
 Buy MOONI on MochiSwap:
 
-https://one.mochiswap.io/#/swap?outputCurrency=0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0
+[https://one.mochiswap.io/#/swap?outputCurrency=0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0](https://one.mochiswap.io/#/swap?outputCurrency=0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0)
 
 How to Buy MOONI:
 
-https://moonity.one/en#how-to-buy
+[https://moonity.one/en#how-to-buy](https://moonity.one/en#how-to-buy)
 
 Official Twitter:
 
-https://twitter.com/Moonity4
+[https://twitter.com/Moonity4](https://twitter.com/Moonity4)
 
 Official Telegram:
 
-https://t.co/gw8RpJ1hkH?amp=1
+[https://t.co/gw8RpJ1hkH?amp=1](https://t.co/gw8RpJ1hkH?amp=1)
